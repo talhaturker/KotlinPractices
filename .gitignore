@@ -53,3 +53,5 @@ Thumbs.db
 *.apk
 *.aab
 *.aar
+*.xml
+*.iml
